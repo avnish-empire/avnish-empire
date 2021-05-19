@@ -1,5 +1,5 @@
 
-<img align="center" alt="poster" src="glow.jpg" width="900" height="140" />
+<img align="center" alt="poster" src="79731568097599.5b50bca477735.jpg" width="900" height="140" />
 
 ## Hi! I AM AVNISH KUMAR👋
 
