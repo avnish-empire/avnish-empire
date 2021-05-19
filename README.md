@@ -23,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=avnish-empire&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=avnish-empire&theme=radical"/>
 |---|---|
 
-<img align="right" alt="GIF" src="avnish.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="ff364a46478a5b0131152638168a0a10 (1).gif" width="500" height="320" />
  
 
 ## Languages & Tools:
